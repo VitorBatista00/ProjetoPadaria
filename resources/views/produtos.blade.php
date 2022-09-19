@@ -10,19 +10,15 @@
 
 
 <head>
-  <!--Main Navigation-->
   <body>
 <header>
 
 <head>
   
   
- <!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white">
-  <!-- Container wrapper -->
+ <nav class="navbar navbar-expand-lg navbar-light bg-white">
   <div class="container-fluid">
     
-    <!-- Toggle button -->
     <button
       class="navbar-toggler"
       type="button"
@@ -35,9 +31,7 @@
       <i class="fas fa-bars"></i>
     </button>
 
-    <!-- Collapsible wrapper -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <!-- Navbar brand -->
       <a class="navbar-brand mt-2 mt-lg-0" href="\">
         <img
           src="/imagens/logo1.png"
@@ -47,7 +41,6 @@
           
         />
       </a>
-      <!-- Left links -->
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link" href="\">Pagina principal</a>
@@ -59,17 +52,10 @@
           <a class="nav-link" href="\contato">Encomendas</a>
         </li>
       </ul>
-      <!-- Left links -->
     </div>
-    <!-- Collapsible wrapper -->
-
     
   </div>
-  <!-- Container wrapper -->
 </nav>
-<!-- Navbar -->
-
-
 
 <main id="cardapio">
 <hr class="mb-5 mt-4">      
@@ -92,33 +78,21 @@
                   <div class="mask"></div>
                 </a>
               </div>
-              <!--/.Card image-->
-              <!--Card content-->
               <div class="card-body">
-                <!--Social shares button-->
                 <a class="activator mr-3"></a>
-                <!--Title-->
                 <h4 class="card-title">Baguete</h4>
                 <hr>
-                <!--Text-->
                 <p class="card-text">Deliciosos baguetes com diversos recheios </p>
                 <a class="link-text">
                   <h5><a class="nav-link" ></h5>              
                 </a>
               </div>
-              <!--/.Card content-->
             </div>
-            <!--/.Card Light-->
-
+      
           </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
           <div class="col-lg-4 col-md-6 mb-4">
 
-            <!--Card Light-->
             <div class="card">
-              <!--Card image-->
               <div class="view overlay">
                 <img src="/imagens/paoalho.jpeg" class="card-img-top" width: 20px;
                   alt="">
@@ -126,33 +100,21 @@
                   <div class="mask"></div>
                 </a>
               </div>
-              <!--/.Card image-->
-              <!--Card content-->
               <div class="card-body">
-                <!--Social shares button-->
                 <a class="activator mr-3"></a>
-                <!--Title-->
                 <h4 class="card-title">Pão de alho recheado</h4>
                 <hr>
-                <!--Text-->
                 <p class="card-text">Uma explosão de sabores. Aproveite!</p><br>
                 <a class="link-text">
                   <h5><a class="nav-link" ></a></h5>
                 </a>
               </div>
-              <!--/.Card content-->
             </div>
-            <!--/.Card Light-->
-
+      
           </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
           <div class="col-lg-4 col-md-6 mb-4">
 
-            <!--Card Light-->
             <div class="card">
-              <!--Card image-->
               <div class="view overlay">
                 <img src="/imagens/paodoce.webp" class="card-img-top" 
                   alt="">
@@ -160,37 +122,24 @@
                   <div class="mask"></div>
                 </a>
               </div>
-              <!--/.Card image-->
-              <!--Card content-->
               <div class="card-body">
-                <!--Social shares button-->
                 <a class="activator mr-3"></a>
-                <!--Title-->
                 <h4 class="card-title">Pão doce</h4>
                 <hr>
-                <!--Text-->
                 <p class="card-text">O queridinho da casa. Ótimo no café da manhã</p><br><br><br>
                 <a class="link-text">
                   <h5><a class="nav-link" ></a></h5>
                 </a>
               </div>
-              <!--/.Card content-->
             </div>
-            <!--/.Card Light-->
-
+      
           </div>
-          <!--Grid column-->
-
+      
         </div>
-        <!--Grid row-->
-
+      
       </section> 
 
-
 <hr>
-
-
-
 
 <hr class="mb-5 mt-4">      
       <section> 
@@ -209,33 +158,20 @@
                   <div class="mask"></div>
                 </a>
               </div>
-              <!--/.Card image-->
-              <!--Card content-->
               <div class="card-body">
-                <!--Social shares button-->
                 <a class="activator mr-3"></a>
-                <!--Title-->
                 <h4 class="card-title">Pão sovado</h4>
                 <hr>
-                <!--Text-->
                 <p class="card-text">Alternativa para quem esta cansado do pão tradicional</p>
                 <a class="link-text">
                   <h5><a class="nav-link" ></h5><br><br><br><br>              
                 </a>
               </div>
-              <!--/.Card content-->
             </div>
-            <!--/.Card Light-->
 
           </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
           <div class="col-lg-4 col-md-6 mb-4">
-
-            <!--Card Light-->
             <div class="card">
-              <!--Card image-->
               <div class="view overlay">
                 <img src="/imagens/rosquinhas.webp" class="card-img-top"
                   alt="">
@@ -243,33 +179,21 @@
                   <div class="mask"></div>
                 </a>
               </div>
-              <!--/.Card image-->
-              <!--Card content-->
               <div class="card-body">
-                <!--Social shares button-->
                 <a class="activator mr-3"></a>
-                <!--Title-->
                 <h4 class="card-title">Rosquinhas</h4>
                 <hr>
-                <!--Text-->
                 <p class="card-text">Perfeitas para adoçar a vida.</p><br>
                 <a class="link-text">
                   <h5><a class="nav-link" ></a></h5><br><br><br> 
                 </a>
               </div>
-              <!--/.Card content-->
             </div>
-            <!--/.Card Light-->
 
           </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
           <div class="col-lg-4 col-md-6 mb-4">
 
-            <!--Card Light-->
             <div class="card">
-              <!--Card image-->
               <div class="view overlay">
                 <img src="/imagens/demais.jpeg" class="card-img-top"
                   alt="">
@@ -277,15 +201,10 @@
                   <div class="mask"></div>
                 </a>
               </div>
-              <!--/.Card image-->
-              <!--Card content-->
               <div class="card-body">
-                <!--Social shares button-->
                 <a class="activator mr-3"></a>
-                <!--Title-->
                 <h4 class="card-title">Encomende outros produtos</h4>
                 <hr>
-                <!--Text-->
                 <p class="card-text">Encomendas para festas e afins, doces e salgados.
 
                 </p><br><br><br>
@@ -293,15 +212,11 @@
                 <h5><a class="nav-link" href="\contato">Clique Aqui!!! <i class="fas fa-chevron-right"></i></a></h5>
                 </a>
               </div>
-              <!--/.Card content-->
             </div>
-            <!--/.Card Light-->
 
           </div>
-          <!--Grid column-->
 
         </div>
-        <!--Grid row-->
 
       </section> 
 
@@ -309,7 +224,3 @@
 </body>
 
 </html>
-
-
-
-
